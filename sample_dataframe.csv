@@ -1,0 +1,11 @@
+ID,Name,Age,Score,Is_Active
+1,User1,31,65.55,True
+2,User2,29,83.72,True
+3,User3,26,70.16,True
+4,User4,20,53.16,True
+5,User5,34,71.48,False
+6,User6,20,96.58,False
+7,User7,39,99.37,True
+8,User8,37,67.82,False
+9,User9,25,95.23,False
+10,User10,38,78.24,True
